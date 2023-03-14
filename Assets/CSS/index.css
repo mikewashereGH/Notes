@@ -8,12 +8,12 @@
 }
 
 body {
-    background: #88ABFF;
+    background: #15202e;
 }
 
 ::selection {
     color: #fff;
-    background: #618cf8;
+    background: #1f2b38;
 }
 
 .wrapper {
@@ -52,15 +52,15 @@ header,
 .add-box .icon {
     height: 78px;
     width: 78px;
-    color: #88ABFF;
+    color: #1f2b38;
     font-size: 40px;
     border-radius: 50%;
     justify-content: center;
-    border: 2px dashed #88ABFF;
+    border: 2px dashed #1f2b38;
 }
 
 .add-box p {
-    color: #88ABFF;
+    color: #1f2b38;
     font-weight: 500;
     margin-top: 20px;
 }
