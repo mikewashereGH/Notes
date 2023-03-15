@@ -67,6 +67,7 @@ header,
 
 .note {
     display: flex;
+    background-color: #282A3A;
     flex-direction: column;
     justify-content: space-between;
 }
@@ -88,7 +89,7 @@ header,
 
 .note .details:hover::-webkit-scrollbar-track,
 .popup textarea:hover::-webkit-scrollbar-track {
-    background: #282A3A;
+    background: #f1f1f1;
     border-radius: 25px;
 }
 
